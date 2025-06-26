@@ -1,0 +1,1 @@
+cmd /k "C:\Users\Admin\anaconda3\Scripts d2d & C: & cd C:\Users\Admin\Downloads\Discord2Discord-master & python d2d.py"
